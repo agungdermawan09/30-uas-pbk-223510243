@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import { Quasar } from 'quasar';
-import router from './router';
+import router from './router/Index.js';
 import { createPinia } from 'pinia';
 import App from './App.vue';
 import 'quasar/src/css/index.sass';
